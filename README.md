@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm Duke, a Mobile Engineer currently building the future of Telemedicine at DRO Health.
-I work with Dart and Flutter and every good thing in between.
+I'm Duke, <br/>
+a Mobile Engineer currently building the future of Telemedicine at DRO Health.<br/>
+I work with Dart and Flutter and every good thing in between.<br/>
 Very much open to collaborations and i would like to see the awesome stuff y'all are building
 
-Come hang out with me [![Twitter][1.2]][1], [![LinkedIn][3.2]][3].
+Come hang out with me  [![Twitter][1.2]][1], [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -14,7 +15,7 @@ Come hang out with me [![Twitter][1.2]][1], [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/dcinspirations
-[2]: https://www.linkedin.com/in/duke-chiaha-999b12145
+[2]: https://www.linkedin.com/in/duke-chiaha-999b12145/
 
 <!--
 **Deuque/Deuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

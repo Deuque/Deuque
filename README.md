@@ -5,7 +5,7 @@ a Mobile Engineer currently building the financial super app for creators at <a 
 I work with Dart and Flutter and every good thing in between.<br/>
 Very much open to collaborations and i would like to see the awesome stuff y'all are building
 
-You can check out some cool personal apps I've published at https://play.google.com/store/apps/dev?id=7492585126160913549
+You can check out some cool personal apps I've published on <a href="https://play.google.com/store/apps/dev?id=7492585126160913549"> Playstore </a>
 and Come hang out with me  [![Twitter][1.2]][1], [![LinkedIn][2.2]][2].
 
 <!-- Icons -->

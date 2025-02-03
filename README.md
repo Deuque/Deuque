@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Duke, <br/>
-a Mobile Engineer currently building a fintech app enabling africans spend globally <a href="https://www.klasha.com/">Klasha</a>.<br/>
+a Senior Mobile Engineer currently building at <a href="https://www.moniepoint.com/">Moniepoint</a>.<br/>
 I work with Dart and Flutter and every good thing in between.<br/>
 Very much open to collaborations and i would like to see the awesome stuff y'all are building
 
